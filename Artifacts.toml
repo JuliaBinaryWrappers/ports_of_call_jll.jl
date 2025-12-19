@@ -1,6 +1,160 @@
-[ports_of_call]
+[[ports_of_call]]
+arch = "aarch64"
 git-tree-sha1 = "b7850b0aec15e58bb1208de29f2efb19c2cb4b55"
+os = "macos"
 
     [[ports_of_call.download]]
     sha256 = "37c6dc89f4906d63483e4cc94832bcf0e707fc79ceba0909aea217d56876fcf3"
-    url = "https://github.com/JuliaBinaryWrappers/ports_of_call_jll.jl/releases/download/ports_of_call-v1.7.1+0/ports_of_call.v1.7.1.any.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/ports_of_call_jll.jl/releases/download/ports_of_call-v1.7.1+1/ports_of_call.v1.7.1.aarch64-apple-darwin.tar.gz"
+[[ports_of_call]]
+arch = "aarch64"
+git-tree-sha1 = "b7850b0aec15e58bb1208de29f2efb19c2cb4b55"
+libc = "glibc"
+os = "linux"
+
+    [[ports_of_call.download]]
+    sha256 = "37c6dc89f4906d63483e4cc94832bcf0e707fc79ceba0909aea217d56876fcf3"
+    url = "https://github.com/JuliaBinaryWrappers/ports_of_call_jll.jl/releases/download/ports_of_call-v1.7.1+1/ports_of_call.v1.7.1.aarch64-linux-gnu.tar.gz"
+[[ports_of_call]]
+arch = "aarch64"
+git-tree-sha1 = "b7850b0aec15e58bb1208de29f2efb19c2cb4b55"
+libc = "musl"
+os = "linux"
+
+    [[ports_of_call.download]]
+    sha256 = "37c6dc89f4906d63483e4cc94832bcf0e707fc79ceba0909aea217d56876fcf3"
+    url = "https://github.com/JuliaBinaryWrappers/ports_of_call_jll.jl/releases/download/ports_of_call-v1.7.1+1/ports_of_call.v1.7.1.aarch64-linux-musl.tar.gz"
+[[ports_of_call]]
+arch = "aarch64"
+git-tree-sha1 = "b7850b0aec15e58bb1208de29f2efb19c2cb4b55"
+os = "freebsd"
+
+    [[ports_of_call.download]]
+    sha256 = "37c6dc89f4906d63483e4cc94832bcf0e707fc79ceba0909aea217d56876fcf3"
+    url = "https://github.com/JuliaBinaryWrappers/ports_of_call_jll.jl/releases/download/ports_of_call-v1.7.1+1/ports_of_call.v1.7.1.aarch64-unknown-freebsd.tar.gz"
+[[ports_of_call]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f4b17d0a07d89be2e5948dfe16af62e5a16d095c"
+libc = "glibc"
+os = "linux"
+
+    [[ports_of_call.download]]
+    sha256 = "e4e71ff39d760e751db204bda439a71a70e64c2dbc7d8770fecf5de29170ae1f"
+    url = "https://github.com/JuliaBinaryWrappers/ports_of_call_jll.jl/releases/download/ports_of_call-v1.7.1+1/ports_of_call.v1.7.1.armv6l-linux-gnueabihf.tar.gz"
+[[ports_of_call]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f4b17d0a07d89be2e5948dfe16af62e5a16d095c"
+libc = "musl"
+os = "linux"
+
+    [[ports_of_call.download]]
+    sha256 = "e4e71ff39d760e751db204bda439a71a70e64c2dbc7d8770fecf5de29170ae1f"
+    url = "https://github.com/JuliaBinaryWrappers/ports_of_call_jll.jl/releases/download/ports_of_call-v1.7.1+1/ports_of_call.v1.7.1.armv6l-linux-musleabihf.tar.gz"
+[[ports_of_call]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f4b17d0a07d89be2e5948dfe16af62e5a16d095c"
+libc = "glibc"
+os = "linux"
+
+    [[ports_of_call.download]]
+    sha256 = "e4e71ff39d760e751db204bda439a71a70e64c2dbc7d8770fecf5de29170ae1f"
+    url = "https://github.com/JuliaBinaryWrappers/ports_of_call_jll.jl/releases/download/ports_of_call-v1.7.1+1/ports_of_call.v1.7.1.armv7l-linux-gnueabihf.tar.gz"
+[[ports_of_call]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f4b17d0a07d89be2e5948dfe16af62e5a16d095c"
+libc = "musl"
+os = "linux"
+
+    [[ports_of_call.download]]
+    sha256 = "e4e71ff39d760e751db204bda439a71a70e64c2dbc7d8770fecf5de29170ae1f"
+    url = "https://github.com/JuliaBinaryWrappers/ports_of_call_jll.jl/releases/download/ports_of_call-v1.7.1+1/ports_of_call.v1.7.1.armv7l-linux-musleabihf.tar.gz"
+[[ports_of_call]]
+arch = "i686"
+git-tree-sha1 = "f4b17d0a07d89be2e5948dfe16af62e5a16d095c"
+libc = "glibc"
+os = "linux"
+
+    [[ports_of_call.download]]
+    sha256 = "e4e71ff39d760e751db204bda439a71a70e64c2dbc7d8770fecf5de29170ae1f"
+    url = "https://github.com/JuliaBinaryWrappers/ports_of_call_jll.jl/releases/download/ports_of_call-v1.7.1+1/ports_of_call.v1.7.1.i686-linux-gnu.tar.gz"
+[[ports_of_call]]
+arch = "i686"
+git-tree-sha1 = "f4b17d0a07d89be2e5948dfe16af62e5a16d095c"
+libc = "musl"
+os = "linux"
+
+    [[ports_of_call.download]]
+    sha256 = "e4e71ff39d760e751db204bda439a71a70e64c2dbc7d8770fecf5de29170ae1f"
+    url = "https://github.com/JuliaBinaryWrappers/ports_of_call_jll.jl/releases/download/ports_of_call-v1.7.1+1/ports_of_call.v1.7.1.i686-linux-musl.tar.gz"
+[[ports_of_call]]
+arch = "i686"
+git-tree-sha1 = "f4b17d0a07d89be2e5948dfe16af62e5a16d095c"
+os = "windows"
+
+    [[ports_of_call.download]]
+    sha256 = "e4e71ff39d760e751db204bda439a71a70e64c2dbc7d8770fecf5de29170ae1f"
+    url = "https://github.com/JuliaBinaryWrappers/ports_of_call_jll.jl/releases/download/ports_of_call-v1.7.1+1/ports_of_call.v1.7.1.i686-w64-mingw32.tar.gz"
+[[ports_of_call]]
+arch = "powerpc64le"
+git-tree-sha1 = "b7850b0aec15e58bb1208de29f2efb19c2cb4b55"
+libc = "glibc"
+os = "linux"
+
+    [[ports_of_call.download]]
+    sha256 = "37c6dc89f4906d63483e4cc94832bcf0e707fc79ceba0909aea217d56876fcf3"
+    url = "https://github.com/JuliaBinaryWrappers/ports_of_call_jll.jl/releases/download/ports_of_call-v1.7.1+1/ports_of_call.v1.7.1.powerpc64le-linux-gnu.tar.gz"
+[[ports_of_call]]
+arch = "riscv64"
+git-tree-sha1 = "b7850b0aec15e58bb1208de29f2efb19c2cb4b55"
+libc = "glibc"
+os = "linux"
+
+    [[ports_of_call.download]]
+    sha256 = "37c6dc89f4906d63483e4cc94832bcf0e707fc79ceba0909aea217d56876fcf3"
+    url = "https://github.com/JuliaBinaryWrappers/ports_of_call_jll.jl/releases/download/ports_of_call-v1.7.1+1/ports_of_call.v1.7.1.riscv64-linux-gnu.tar.gz"
+[[ports_of_call]]
+arch = "x86_64"
+git-tree-sha1 = "b7850b0aec15e58bb1208de29f2efb19c2cb4b55"
+os = "macos"
+
+    [[ports_of_call.download]]
+    sha256 = "37c6dc89f4906d63483e4cc94832bcf0e707fc79ceba0909aea217d56876fcf3"
+    url = "https://github.com/JuliaBinaryWrappers/ports_of_call_jll.jl/releases/download/ports_of_call-v1.7.1+1/ports_of_call.v1.7.1.x86_64-apple-darwin.tar.gz"
+[[ports_of_call]]
+arch = "x86_64"
+git-tree-sha1 = "b7850b0aec15e58bb1208de29f2efb19c2cb4b55"
+libc = "glibc"
+os = "linux"
+
+    [[ports_of_call.download]]
+    sha256 = "37c6dc89f4906d63483e4cc94832bcf0e707fc79ceba0909aea217d56876fcf3"
+    url = "https://github.com/JuliaBinaryWrappers/ports_of_call_jll.jl/releases/download/ports_of_call-v1.7.1+1/ports_of_call.v1.7.1.x86_64-linux-gnu.tar.gz"
+[[ports_of_call]]
+arch = "x86_64"
+git-tree-sha1 = "b7850b0aec15e58bb1208de29f2efb19c2cb4b55"
+libc = "musl"
+os = "linux"
+
+    [[ports_of_call.download]]
+    sha256 = "37c6dc89f4906d63483e4cc94832bcf0e707fc79ceba0909aea217d56876fcf3"
+    url = "https://github.com/JuliaBinaryWrappers/ports_of_call_jll.jl/releases/download/ports_of_call-v1.7.1+1/ports_of_call.v1.7.1.x86_64-linux-musl.tar.gz"
+[[ports_of_call]]
+arch = "x86_64"
+git-tree-sha1 = "b7850b0aec15e58bb1208de29f2efb19c2cb4b55"
+os = "freebsd"
+
+    [[ports_of_call.download]]
+    sha256 = "37c6dc89f4906d63483e4cc94832bcf0e707fc79ceba0909aea217d56876fcf3"
+    url = "https://github.com/JuliaBinaryWrappers/ports_of_call_jll.jl/releases/download/ports_of_call-v1.7.1+1/ports_of_call.v1.7.1.x86_64-unknown-freebsd.tar.gz"
+[[ports_of_call]]
+arch = "x86_64"
+git-tree-sha1 = "b7850b0aec15e58bb1208de29f2efb19c2cb4b55"
+os = "windows"
+
+    [[ports_of_call.download]]
+    sha256 = "37c6dc89f4906d63483e4cc94832bcf0e707fc79ceba0909aea217d56876fcf3"
+    url = "https://github.com/JuliaBinaryWrappers/ports_of_call_jll.jl/releases/download/ports_of_call-v1.7.1+1/ports_of_call.v1.7.1.x86_64-w64-mingw32.tar.gz"

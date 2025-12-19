@@ -1,6 +1,6 @@
 name = "ports_of_call_jll"
 uuid = "92508e6a-a003-5ada-866a-9afaacf14b0b"
-version = "1.7.1+0"
+version = "1.7.1+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
