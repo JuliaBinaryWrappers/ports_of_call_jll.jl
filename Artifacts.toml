@@ -1,0 +1,6 @@
+[ports_of_call]
+git-tree-sha1 = "b7850b0aec15e58bb1208de29f2efb19c2cb4b55"
+
+    [[ports_of_call.download]]
+    sha256 = "37c6dc89f4906d63483e4cc94832bcf0e707fc79ceba0909aea217d56876fcf3"
+    url = "https://github.com/JuliaBinaryWrappers/ports_of_call_jll.jl/releases/download/ports_of_call-v1.7.1+0/ports_of_call.v1.7.1.any.tar.gz"
